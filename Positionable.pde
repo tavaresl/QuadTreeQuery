@@ -1,0 +1,4 @@
+interface Positionable
+{
+  PVector getPosition();
+}
